@@ -1,6 +1,6 @@
 # Vue Giriş Dersi
 
-Bu bölümde vue'nun yüklenmesi, bootstrap kütüphanesinin dahil edilmesi ve localde tablo üzerinde basit crud işlemlerini anlatılır.
+Bu bölümde vue'nun yüklenmesi, bootstrap kütüphanesinin dahil edilmesi ve localde tablo üzerinde basit crud işlemlerini anlatılır. **node_modules proje içeriğinde mevcut değildir.**
 
 
 # Gerekli programlar
